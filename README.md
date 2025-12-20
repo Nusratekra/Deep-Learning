@@ -9,7 +9,4 @@ A curated collection of deep learning implementations, experiments, and learning
 - Core deep learning concepts implemented from scratch and with frameworks 
 - Model implementations (CNN, RNN, LSTM, Transformers, etc.)
 - Experiments on vision, NLP, and tabular data.  
-- Well-structured notebooks and scripts for learning and reuse.
-
-# Topics Covered
-- 
+- Well-structured notebooks and scripts for learning and reuse. 
