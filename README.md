@@ -5,21 +5,21 @@ This repository contains  deep learning projects implementing various models and
 
 **Key features:**
 - Data preprocessing and augmentation
-- Model building using LSTM, RNN, CNN, or Transformer architectures
+- Model building using LSTM, RNN, CNN, architectures
 - Training and evaluation of deep learning models
 - Saving and loading trained models
-- Deployment-ready examples with Streamlit or Flask
+- Deployment-ready examples with Streamlit 
 
 ---
 
 ## 🛠️ Technologies & Libraries
 - Python 3.10 / 3.11 (**TensorFlow does not support Python 3.13**)
 - TensorFlow / Keras
-- PyTorch (optional, if some projects use it)
+- PyTorch
 - NumPy
 - Pandas
-- Matplotlib / Seaborn (for visualization)
+- Matplotlib / Seaborn 
 - Scikit-learn
-- Streamlit / Flask (for web apps)
-- Pickle / Joblib (for saving preprocessing objects)
+- Streamlit (for web apps)
+- Pickle (for saving preprocessing objects)
 
