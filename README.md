@@ -5,7 +5,7 @@ This repository contains  deep learning projects implementing various models and
 
 **Key features:**
 - Data preprocessing and augmentation
-- Model building using LSTM, RNN, CNN, architectures
+- Model building using LSTM, RNN, CNN, architectures,Transformer
 - Training and evaluation of deep learning models
 - Saving and loading trained models
 - Deployment-ready examples with Streamlit 
